@@ -1,4 +1,4 @@
-var saludo = hola
+var saludo = "hola"
 function hola(saludo){
     return saludo;
 }
