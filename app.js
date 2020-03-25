@@ -1,4 +1,4 @@
-function hola(){
-    return hola;
+function hola(saludo){
+    return saludo;
 }
-console.log(hola());
+console.log(hola("¿cómo estas?"));
