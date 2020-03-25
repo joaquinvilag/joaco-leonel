@@ -1,2 +1,3 @@
-var Numero = 2
-var saludo = "Hola, que tal?"
+var numero = 2
+var saludo = "Hola, todo bien?"
+var marcaCelular = Xiaomi
