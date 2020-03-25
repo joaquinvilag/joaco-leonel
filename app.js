@@ -1,4 +1,5 @@
+var saludo = hola
 function hola(){
-    return hola;
+    return saludo;
 }
 console.log(hola());
